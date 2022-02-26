@@ -25,4 +25,6 @@ const getMemoryInfo = () => {
 
     console.clear();
 	console.table(stats);
+
+	exports.stats = stats;
 };
