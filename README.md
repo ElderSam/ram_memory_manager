@@ -5,5 +5,5 @@
 ---------
 
 Run;
-`node pcRamUsage.js`
+`npm run dev`
 

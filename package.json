@@ -2,8 +2,9 @@
   "name": "ram_memory_manager",
   "version": "1.0.0",
   "description": "App to manage RAM memory usage",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "dev": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
